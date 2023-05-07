@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)), url("/tourism.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)), url("/TASK\ 01/tourism.jpg");
     /* background-image: url(/img4.jpg); */
     background-repeat: no-repeat;
     background-position: center;
